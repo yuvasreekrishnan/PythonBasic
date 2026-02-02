@@ -29,4 +29,4 @@ for x in sample:
     if(x==800):
      print("the third element is:",x)
 else:
-        print("the loop is ended")
+        print("the loop is ended")  

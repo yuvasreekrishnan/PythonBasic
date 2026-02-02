@@ -25,3 +25,14 @@ print(sample.count(100))
 
 print(sample.clear())
 print(sample)
+
+
+
+
+
+
+
+
+
+
+
